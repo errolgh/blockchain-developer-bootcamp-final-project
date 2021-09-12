@@ -4,6 +4,7 @@
 
 A tool that facilitates artists in minting NFTs among the Ethereum [ERC-721](https://ethereum.org/en/developers/docs/standards/tokens/erc-721/) token boom. 💥
 
+<br>
 
 ## Minimum Viable Product 🔬
 
@@ -68,6 +69,7 @@ A tool that facilitates artists in minting NFTs among the Ethereum [ERC-721](htt
 
 [Truffle Suite](https://www.trufflesuite.com/)
 
+<br>
 
 ## Project Requirements 📋
 
