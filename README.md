@@ -9,14 +9,13 @@ A tool that facilitates artists in minting NFTs among the Ethereum [ERC-721](htt
 
 #### ***This section will become more detailed as I learn and become more aware of the intricacies of an Ethereum dApp project.***
 
-<br>
-
 ### User Stories:
 
 > A user can upload a digital art file to the **NFT Art Mint** UI. 
 
 > A user can mint an NFT to an Ethereum testnet. 
 
+<br>
 
 ## Stretch Goals 🔭
 
