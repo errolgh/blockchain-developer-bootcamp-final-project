@@ -7,7 +7,9 @@ A tool that facilitates artists in minting NFTs among the Ethereum [ERC-721](htt
 
 ## Minimum Viable Product 🔬
 
-This section will become more detailed as I learn and become more aware of the intricacies of an Ethereum dApp project.
+#### ***This section will become more detailed as I learn and become more aware of the intricacies of an Ethereum dApp project.***
+
+<br>
 
 ### User Stories:
 
@@ -17,6 +19,10 @@ This section will become more detailed as I learn and become more aware of the i
 
 
 ## Stretch Goals 🔭
+
+#### ***The ultimate stretch goal is an NFT art generator that mints collections on the Polygon L2 sidechain.*** 
+
+<br/>
 
 **Mainnet Deployment**
 > Once the app reaches MVP, allow the app to connect to a mainnet on Ethereum blockchain or an L2 sidechain like Polygon. Create a collection and enter a markektplace like [opensea.io](https://www.opensea.io)
